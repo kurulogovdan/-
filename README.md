@@ -1,6 +1,9 @@
 # -# Hi, I'm Kyryll 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
+я учиник полетихнического коледжа группы 21 1/9 ЕП
+моя почта: govdan_kurulo@politktu.dp.ua
+ адрес:Кривий РігБ,вулиця Добролюбово 4 
+ дата народження 
+ 14.11.2005
 
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=romankh3&show_icons=true&count_private=true"><img
@@ -28,14 +31,10 @@ In general worked with monolitic, microservice and serverless arthitectures. Big
 *   Write posts about software development.
 *   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
 
-## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+##  Technical Stack
 
-### My opensource projects
+
+
 
 *   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
 *   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
